@@ -8,7 +8,7 @@ Script alternatif untuk mengganti id akun yang sudah terkena limit ganti id 1x
 ```bash
 pkg install python -y
 pkg install git -y
-git clone https://github.com/diverglovsky/gantiid.git
+git clone https://github.com/arya478/Ganti-id-spoon
 ```
 
 ## Usage (Cara pakai)
@@ -25,5 +25,4 @@ Enjoy ~
 
 
 
-## Credit
-[Group telegram](https://t.me/joinchat/UPFZEKRg6jTVdpCv) https://t.me/joinchat/UPFZEKRg6jTVdpCv  
+
