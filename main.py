@@ -104,7 +104,7 @@ def gantiid(config):
 if __name__ == '__main__':
     #input
 
-    print("Script untuk ganti id by Arya/if contoh : 6285155415154")
+    print("Script untuk ganti id by Arya/contoh : 6285155415154")
     nomor = input("Masukkan nomor telepon yang terhubung pada akun : ")
     password = input("Masukkan password : ")
 
@@ -124,7 +124,7 @@ if __name__ == '__main__':
 
     gantiid(config)
 
-    print("ig :@arryakkk ~")
+    print("ig :@arryakkk   kuntuul ~")
 
 
 
